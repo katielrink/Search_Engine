@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /mnt/c/Users/katie/Documents/GitHub/21s-srch-eng-smile-through-the-pain
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/katie/Documents/GitHub/21s-srch-eng-smile-through-the-pain/cmake-build-release
